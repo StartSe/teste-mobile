@@ -1,5 +1,9 @@
 # StartSe - Teste para Dev Mobile
 
+Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimento e envie um email com o título `[Teste Mobile] Estimativa` para thiago.barcelos@startse.com
+
+Quando finalizar o teste, publique tudo no seu [Github](https://github.com) e envie um email com o link do repositorio para thiago.barcelos@startse.com
+
 ## Requirements
 - [ ] Conhecimento básico de programação
 - [ ] Conhecimento básico de javascript
@@ -32,4 +36,8 @@ O prazo de entrega é de 1 semana, se conseguir antes melhor, se precisar de mai
 Mockup de referência(seja criativo...):
 ![Mockup Photo](https://preview.ibb.co/hgFVex/mockup.png 'Frontend Test')
 
-Good Luck :)
+# Dúvida
+
+Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Mobile] O assunto que vc deseja` para thiago.barcelos@startse.com
+
+Boa sorte!
