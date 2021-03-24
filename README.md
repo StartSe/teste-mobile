@@ -26,6 +26,7 @@
 Critérios de avaliação:
 ```
 Vamos analisar seu Repositorio no GIT, os commits(comentarios e mudanças), organização do código, padrões e qualidade.
+O prazo de entrega é de 1 semana, se conseguir antes melhor, se precisar de mais tempo sinalize.
 ```
 
 Mockup de referência(seja criativo...):
